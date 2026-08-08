@@ -1,9 +1,10 @@
 # 🤖 TIMSON – Desktop Pet
 
-<img src="Demo_1.jpg" alt="TIMSON Demo" width="400">
+<div align="center">
+  <img src="Demo_1.jpg" alt="TIMSON Demo" width="400">
+</div>
 
 > A friendly, internet‑connected desktop companion built with ESP32, a 0.96" OLED, two servos, and capacitive touch sensors.
-
 ---
 
 ## ✨ Features
@@ -92,8 +93,9 @@ The latest firmware is in `Firmware1.3.ino`.
 
 ## 🧰 Hardware Development
 
-![Hardware Development](Hardware_development.jpg)
-
+<div align="center">
+  <img src="Hardware_development.jpg" alt="Hardware Development" width="400">
+</div>
 ---
 
 ## 📜 License
