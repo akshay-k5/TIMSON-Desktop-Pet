@@ -47,8 +47,7 @@
 ### Voltage Divider (Battery)
 ![Voltage Divider](voltage divider.png)
 
-
-
+### Overall Circuit diagram
 ![Circuit Diagram](Circuit_diagram.png)
 
 ---
