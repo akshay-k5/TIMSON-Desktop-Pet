@@ -270,7 +270,7 @@ void setupWebServer() {
     </div>
   </div>
   <div class="footer">
-    Made by <span>Akshay</span> with the help of <span>Deep Seek</span>
+    Made by <span>Akshay</span> akshay-k5 </span>
   </div>
   <script>
     function updateData() {
