@@ -45,7 +45,7 @@
 | TP4056 Charger     | BAT+/BAT‑ to Li‑Po, USB‑C for charging |
 
 ### Voltage Divider (Battery)
-![Voltage Divider](voltage divider.png)
+![Voltage Divider](voltage_divider.png)
 
 ### Overall Circuit diagram
 ![Circuit Diagram](Circuit_diagram.png)
