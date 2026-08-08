@@ -45,6 +45,13 @@
 | TP4056 Charger     | BAT+/BAT‑ to Li‑Po, USB‑C for charging |
 
 ### Voltage Divider (Battery)
+BAT+ ── 100kΩ ──┬── GPIO34
+│
+100kΩ
+│
+BAT- ──────────┴── GND
+
+
 ![Circuit Diagram](Circuit_diagram.png)
 
 ---
