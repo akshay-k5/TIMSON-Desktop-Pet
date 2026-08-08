@@ -1,6 +1,6 @@
 # 🤖 TIMSON – Desktop Pet
 
-![TIMSON Demo](Demo_1.jpg)
+<img src="Demo_1.jpg" alt="TIMSON Demo" width="400">
 
 > A friendly, internet‑connected desktop companion built with ESP32, a 0.96" OLED, two servos, and capacitive touch sensors.
 
