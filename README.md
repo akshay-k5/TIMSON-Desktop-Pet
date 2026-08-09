@@ -16,7 +16,7 @@
   - **GPIO12** – short press = info screen, long press = idle, very long press (>10s) = deep sleep.
   - **GPIO13** – short press = petting mode (hands wave), mid press = sleep mode, long press (>3s) = custom message.
 - 👐 **Petting Animation** – Servos sweep a wide 130° arc (25°↔155°) with a smooth triangle wave.
-- 🛌 **Deep Sleep** – Hold GPIO12 for 10 s to enter deep sleep; touch again to wake. Power draw drops to ~5 µA.
+- 🛌 **Deep Sleep** – Hold GPIO12 (Touch pad) for 10 s to enter deep sleep; touch again to wake. Power draw drops to ~5 µA.
 - 💬 **Custom Message** – Set via web dashboard; displayed on OLED after long press.
 - 🔋 **Battery Monitoring** – Voltage divider (100k/100k) reads Li‑Po level, shown with a battery icon.
 - 🌐 **Web Dashboard** – Vibrant, mobile‑friendly interface at `http://timson.local` to view status, update weather settings, and change the custom message.
@@ -74,8 +74,8 @@ The latest firmware is in `Firmware1.3.ino`.
 
 1. Power on TIMSON.  
 2. If no saved Wi‑Fi is found, it creates an AP named **TIMSON-AP** (password: `timson123`).  
-3. Connect your phone/laptop to that AP and wait for the captive portal (or browse to `192.168.4.1`).  
-4. Enter your Wi‑Fi credentials, **OpenWeatherMap API key**, and **city** (e.g. `Idukki,IN`).  
+3. Connect your phone/laptop to that AP and wait for the captive portal.
+4. Enter your Wi‑Fi credentials, **OpenWeatherMap API key**, and **city** (e.g. `Chennai,IN`).  
 5. Click **Save** – the device will restart and connect to your network.  
 6. Open `http://timson.local` in any browser to see the dashboard and adjust settings.
 
